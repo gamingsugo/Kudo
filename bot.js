@@ -525,7 +525,7 @@ exports.run = function(server_name, text_channel_name, voice_channel_name, alias
 	});
 
 	bot.login(
-process.env.MzYwMjE5MzY1Mjg4OTY4MTkz.DT3P-g.R7TsQQIPfaJQPc7jvtC7YoFoQO4);
+process.env.Bot_Token);
 }
 
 exports.setYoutubeKey = function(key) {
