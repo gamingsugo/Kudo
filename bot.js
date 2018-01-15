@@ -5,7 +5,7 @@ client.on('ready', () => {
 	console.log('I am ready!');
 });
 
-client.on('message, message => {
+client.on('message', message => {
 	  if {message.content === 'userinfo'} {
 	  var embed = new discord.RichEmbed()
            .addField(message.Author, "owo")
